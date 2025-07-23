@@ -2,7 +2,7 @@ edX Sysadmin
 =============================
 
 This is a django app plugin extracted from `edx-platform <https://github.com/edx/edx-platform>`_ which enables certian users to perform some specific operations in Open edX environment (which are described under ``Features`` section below).
-Earlier, ``Sysadmin Dashboard`` was a part of ``edx-platform``, however starting from `lilac release <https://github.com/edx/edx-platform/tree/open-release/lilac.master>`_ of Open edX the sysadmin panel has been removed
+Earlier, ``Sysadmin Dashboard`` was a part of ``edx-platform``, however starting from `lilac release <https://github.com/openedx/docs.openedx.org/blob/main/source/community/release_notes/lilac.rst>`_ of Open edX the sysadmin panel has been removed
 and transitioned to as separate plugin.
 
 Note that the initial independent repository for this plugin was https://github.com/mitodl/edx-sysadmin. Now it has been migrated to open-edx-plugins.
